@@ -55,7 +55,7 @@ public class Employee {
 
     private String employee Id;
     private String first_Name;
-    private String lastName;
+    private String last_Name;
     private LocalDate dateOfBirth;
     private String mobileNumber;
     private String phoneNumber;
