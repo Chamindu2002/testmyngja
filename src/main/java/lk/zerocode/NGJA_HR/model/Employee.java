@@ -53,7 +53,7 @@ public class Employee {
      private Department department;
 
 
-    private String employee Id;
+    private String employeeId;
     private String first_Name;
     private String last_Name;
     private LocalDate dateOfBirth;
