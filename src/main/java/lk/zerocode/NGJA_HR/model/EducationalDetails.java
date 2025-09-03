@@ -20,7 +20,7 @@ public class EducationalDetails {
     private String degree_Name;
     private String year;
     private ExamStatus status;
-    private String certificatePath;
+    private String certificate_Path;
 
 
 }
